@@ -3,9 +3,9 @@ Sound Recognition and Face Detection based on Landmarks. It also suggests people
 
 
 
-!['TiltedFace']('TiltedFace.png')
+!['TiltedFace'](TiltedFace.png)
 
-!['AdjustedFace']('VerticalFace.png')
+!['AdjustedFace'](VerticalFace.png)
 
 
 This youtube video explains the work done - https://youtu.be/JuoVLzKDpCw
