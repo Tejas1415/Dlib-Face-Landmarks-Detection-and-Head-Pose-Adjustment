@@ -2,6 +2,7 @@
 Sound Recognition and Face Detection based on Landmarks. It also suggests people to adjust the pose of their head.
 
 
+< img src="TiltedFace.png", width = "100" > 
 
 !['TiltedFace'](TiltedFace.png)
 
